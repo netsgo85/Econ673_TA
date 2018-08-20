@@ -1,8 +1,4 @@
 Start Test
 Modification
 Modify again
-<<<<<<< HEAD
-netsgo85 modification
-=======
-sjcho85 modify.
->>>>>>> cc7dde0f8b81fa7cc1b7065f13581a2db90b1ddf
+
