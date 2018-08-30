@@ -1,4 +1,8 @@
 Econ673
 Fetch
 Welcome.
+<<<<<<< HEAD
 
+=======
+Xinyu hi.
+>>>>>>> e96d9b11d9816426141ff73af1ad614c39e3dfaf
