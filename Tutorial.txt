@@ -1,4 +1,11 @@
 Econ673
 Fetch
 Welcome.
+<<<<<<< HEAD
+new branch673
+=======
 Xinyu hi.
+>>>>>>> d643773fdba2b0adfd9e42f61eaa9e50270b50af
+
+hello
+
